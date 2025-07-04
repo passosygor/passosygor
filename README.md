@@ -15,7 +15,7 @@
 
 ## Estatísticas do Meu Perfil
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=passosygor icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=passosygoricons=true&theme=dark)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=passosygor&layout=pie&langs_count=16&theme=dark)
 
