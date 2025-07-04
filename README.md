@@ -22,6 +22,13 @@
 
 ##
 
+## Estatísticas do Meu Perfil
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafaellindemann&show_icons=true&theme=dark)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellindemann&layout=pie&langs_count=16&theme=dark)
+
+
 <div> 
   <a href="https://youtube.com/@7_matheus_77?si=ArnOnlUUvcbIPE5w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/yygor.2k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
