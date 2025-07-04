@@ -13,6 +13,13 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passosygor&layout=compact&langs_count=7&theme=calm_pink"/>
 </div>
 
+## Estatísticas do Meu Perfil
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafaellindemann&show_icons=true&theme=dark)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellindemann&layout=pie&langs_count=16&theme=dark)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,13 +28,6 @@
 </div>
 
 ##
-
-## Estatísticas do Meu Perfil
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafaellindemann&show_icons=true&theme=dark)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellindemann&layout=pie&langs_count=16&theme=dark)
-
 
 <div> 
   <a href="https://youtube.com/@7_matheus_77?si=ArnOnlUUvcbIPE5w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
