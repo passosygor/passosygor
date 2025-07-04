@@ -5,19 +5,12 @@
 - 🌱 Concluindo o Ensino Médio
 - 📫 Contate-me no email: ygor.passosluciano129@gmail.com
 
-##
-
+## Estatísticas do Meu Perfil
 <div >
     <a href="https://github.com/passosygor">
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=passosygor&show_icons=true&theme=dark)
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=passosygor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passosygor&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-## Estatísticas do Meu Perfil
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=passosygor&show_icons=true&theme=dark)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=passosygor&layout=pie&langs_count=16&theme=dark)
 
 
 <div style="display: inline_block"><br>
