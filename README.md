@@ -15,9 +15,9 @@
 
 ## Estatísticas do Meu Perfil
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafaellindemann&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=passosygor icons=true&theme=dark)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellindemann&layout=pie&langs_count=16&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=passosygor&layout=pie&langs_count=16&theme=dark)
 
 
 <div style="display: inline_block"><br>
