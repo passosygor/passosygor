@@ -3,7 +3,6 @@
 
 - 🔭 Estou cursando Desenvolvimento de Sistema
 - 🌱 Concluindo o Ensino Médio
-- 📫 Contate-me no email: ygor.passosluciano129@gmail.com
 
 ## Estatísticas do Meu Perfil
 <div >
