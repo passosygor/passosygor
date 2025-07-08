@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Ygor dos Passos
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=Temos+coisas+legais+aqui+:%29;Fique+à+vontade+para+conferir;E+contribuir,+se+assim+desejar)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vcenter=true&width=1000&lines=Temos+coisas+legais+aqui+:%29;Fique+à+vontade+para+conferir;E+contribuir,+se+assim+desejar)](https://git.io/typing-svg)  
 
 - 🔭 Estou cursando Desenvolvimento de Sistema
 - 🌱 Concluindo o Ensino Médio
